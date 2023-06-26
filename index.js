@@ -1,6 +1,3 @@
-// let firstCard  = Math.floor((Math.random() * 100) + 1);
-// let secondCard = Math.floor((Math.random() * 100) + 1);
-
 let cards = [];
 let sum = 0
 let hasBlackjack = false;
